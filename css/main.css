@@ -1,0 +1,40 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+body {
+	background-color: #5C5C5C;
+	padding: 0;
+}
+
+#map {
+
+	background-color: #3995c6;
+	width: 100%;
+	
+background: rgb(105,181,219);
+background: -moz-linear-gradient(-45deg,  rgba(105,181,219,1) 0%, rgba(78,146,201,1) 44%, rgba(46,129,173,1) 100%);
+background: -webkit-gradient(linear, left top, right bottom, color-stop(0%,rgba(105,181,219,1)), color-stop(44%,rgba(78,146,201,1)), color-stop(100%,rgba(46,129,173,1)));
+background: -webkit-linear-gradient(-45deg,  rgba(105,181,219,1) 0%,rgba(78,146,201,1) 44%,rgba(46,129,173,1) 100%);
+background: -o-linear-gradient(-45deg,  rgba(105,181,219,1) 0%,rgba(78,146,201,1) 44%,rgba(46,129,173,1) 100%);
+background: -ms-linear-gradient(-45deg,  rgba(105,181,219,1) 0%,rgba(78,146,201,1) 44%,rgba(46,129,173,1) 100%);
+background: linear-gradient(135deg,  rgba(105,181,219,1) 0%,rgba(78,146,201,1) 44%,rgba(46,129,173,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#69b5db', endColorstr='#2e81ad',GradientType=1 );
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
