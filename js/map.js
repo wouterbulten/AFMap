@@ -199,7 +199,6 @@ map.svg.append("g")
 		return randomMap[d.i][d.j];
 
 	})
-	.attr("fill", "url(http://upload.wikimedia.org/wikipedia/commons/0/02/SVG_logo.svg)")
 
 	.style("fill-opacity", function(d,i){
 		if(randomMap[d.i][d.j] == colorWater)
